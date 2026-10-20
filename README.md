@@ -4,6 +4,22 @@
 
 任务不难，**也不要求全部做完**——尽力完成自己能完成的部分就行。卡住了就去查资料、问 AI，或者在群里问学长。
 
+## 开始之前：先把文档看舒服
+
+这些文档是 Markdown 格式，用记事本打开只会看到一堆 `#`、`**`、`|`，完全看不出结构。强烈建议先花几分钟装好 VS Code，用它来阅读：
+
+1. 下载安装 VS Code：<https://code.visualstudio.com/>，一路默认下一步即可。
+   （想要中文界面：打开后按 `Ctrl + Shift + X`，搜索 `Chinese (Simplified)` 安装并重启。）
+2. 把项目弄到本地，二选一：
+   - 已经装了 Git：`git clone https://github.com/heimenkyou/club-onboarding`
+   - 还没装 Git：在 GitHub 仓库页点绿色的 **Code** → **Download ZIP**，解压到任意文件夹。
+3. 打开 VS Code，点 **File → Open Folder**（文件 → 打开文件夹），选中 `club-onboarding` 这个文件夹。
+4. 在左侧点开 `README.md`，然后点编辑器**右上角的预览按钮**（图标像“放大镜 + 文档分栏”，不同版本位置略有差异），或者直接按 `Ctrl + Shift + V`，就能看到排版好的文档。
+   - 想左边写、右边实时预览：先按 `Ctrl + K`，再按 `V`。
+5. 后面的 `docs/stage1.md`、`docs/stage2.md`、`docs/stage3.md` 也都这样预览着看。
+
+> 其实在 GitHub 网页上打开仓库首页，README 也是渲染好的，可以直接读；但本地预览方便你一边看一边改文件。
+
 ---
 
 ## 任务一览
